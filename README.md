@@ -1,2 +1,2 @@
-# 2_Cloud_Data_Warehouses
+# Cloud_Data_Warehouses
 A Udacity Project ETL
